@@ -1,0 +1,25 @@
+<div class="mainStyle">
+    <h1>Enter Item:</h1>
+    e.g. "Mushroom"<br>
+    <input class="input-sm" ng-model="itemFilter">
+    <br>
+</div>
+<div itemElement></div>
+
+<div ng-repeat="entry in isaacItems.items | filter:itemFilter">
+    <div class="sample-show-hide" ng-show="itemFilter.length >=3">
+        <div class="itemStyle" ng-controller="MainCtrl">
+            ID: {{entry.id}}
+            <br>
+            <img ng-src="./resources/{{entry.url}}"><br>
+            Name: {{entry.name}}
+            <br>
+            Description: {{entry.description}}
+            <br><br>
+
+            <div ng-repeat="effect in entry.effects">
+                {{effect}}
+            </div>
+        </div>
+    </div>
+</div>
