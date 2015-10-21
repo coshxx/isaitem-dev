@@ -4162,7 +4162,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "O - The Fool",
             "effects": [
                 "Teleports the player to the starting room of the current floor."
@@ -4171,7 +4171,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "I - The Magician",
             "effects": [
                 "For the current room, tears now have the Spoon Bender effect, which allows them to curve towards enemies and gives them a pur\u0440le appearance."
@@ -4180,7 +4180,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "II - The High Priestess",
             "effects": [
                 "Summons Mom's foot which will stomp on a random enemy in the current room, dealing 300 damage.",
@@ -4190,7 +4190,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "III - The Empress",
             "effects": [
                 "Gives the player the Whore of Babylon effect for the current room, increasing damage and speed."
@@ -4199,7 +4199,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "IV - The Emperor",
             "effects": [
                 "Teleports the player to the Boss room on the current floor."
@@ -4208,7 +4208,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "V - The Hierophant",
             "effects": [
                 "Spawns 2 Soul hearts on the floor."
@@ -4217,7 +4217,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "VI - The Lovers",
             "effects": [
                 "Spawns 2 red hearts on the floor."
@@ -4226,7 +4226,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "VII - The Chariot",
             "effects": [
                 "Grants the same effect as 'My Little Unicorn', which makes Isaac invincible and deal 40 contact damage to enemies per hit."
@@ -4235,7 +4235,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "VIII - Justice",
             "effects": [
                 "Spawns 1 bomb, 1 key, 1 coin, 1 heart, which can be random variants of each."
@@ -4244,7 +4244,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "IX - The Hermit",
             "effects": [
                 "Teleports the player to the Shop.",
@@ -4254,7 +4254,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "X - Wheel of Fortune",
             "effects": [
                 "Spawns a Slot Machine or a Fortune Machine."
@@ -4263,7 +4263,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "XI - Strength",
             "effects": [
                 "Gives the player the Magic Mushroom effect, which increasing size and all stats by 1 for the current room.",
@@ -4273,7 +4273,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "XII - The Hanged Man",
             "effects": [
                 "Gives the player the flying effect for the current room, allowing the player to fly over obstacles in the room.",
@@ -4283,7 +4283,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "XIII - Death",
             "effects": [
                 "Deals 40 damage to all enemies in the room in a similar style to the Necronomicon."
@@ -4292,7 +4292,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "XIV - Temperance",
             "effects": [
                 "Spawns a Blood Donation Machine."
@@ -4301,7 +4301,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "XV - The Devil",
             "effects": [
                 "Gives the Book of Belial effect for the current room, increasing damage."
@@ -4310,7 +4310,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "XVI - The Tower",
             "effects": [
                 "Spawns some troll bombs at random locations in the current room.",
@@ -4320,7 +4320,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "XVII - The Stars",
             "effects": [
                 "Teleports the player to the Item Room.",
@@ -4330,7 +4330,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "XVIII - The Moon",
             "effects": [
                 "Teleports the player to the Secret Room."
@@ -4339,7 +4339,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "XIX - The Sun",
             "effects": [
                 "A card with three uses: A full heal, deals 100 damage to all enemies in the current room and reveals the entire map for the current floor (Treasure Map + The Compass)."
@@ -4348,7 +4348,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "XX - Judgement",
             "effects": [
                 "Spawns a beggar.",
@@ -4359,7 +4359,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "XXI - The World",
             "effects": [
                 "Reveals the entire map and shows the icons for every room which has one.",
@@ -4369,7 +4369,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "2 of Spades",
             "effects": [
                 "Doubles the number of keys you have.",
@@ -4379,7 +4379,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "2 of Clubs",
             "effects": [
                 "Doubles the number of Bombs you have.",
@@ -4389,7 +4389,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "2 of Hearts",
             "effects": [
                 "Doubles your current red hearts up to full health.",
@@ -4400,7 +4400,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "2 of Diamonds",
             "effects": [
                 "Doubles the number of coins you have.",
@@ -4410,7 +4410,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "The Joker",
             "effects": [
                 "Teleports you to the Devil Deal Room on the current floor."
@@ -4419,7 +4419,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Chaos Card",
             "effects": [
                 "A card which can be thrown as a projectile directly infront of Isaac, instantly killing anything it hits.",
@@ -4432,7 +4432,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Credit Card",
             "effects": [
                 "When used, removes the price tag from all items in the current shop or devil deal, making everything free.",
@@ -4442,7 +4442,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Rules Card",
             "effects": [
                 "Displays a random cryptic message on the screen similar to the fortune machine ones. One of the following messages may show:",
@@ -4459,7 +4459,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Card Against Humanity",
             "effects": [
                 "When used, fills the entire room with poop!"
@@ -4468,7 +4468,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Suicide King",
             "effects": [
                 "When used, instantly kills you and spawns 10 pickup on the floor.",
@@ -4479,7 +4479,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Rune of Algiz",
             "effects": [
                 "When used, gives you an invincibility effect which lasts for 30 seconds (much longer than normal invincibility effects)."
@@ -4488,7 +4488,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Rune of Ansuz",
             "effects": [
                 "When used, reveals the entire map including all the secret room locations and other icon rooms."
@@ -4497,7 +4497,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Rune of Berkano",
             "effects": [
                 "Summons 3 blue friendly spiders and 3 blue flies."
@@ -4506,7 +4506,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Rune of Dagaz",
             "effects": [
                 "Removes the curse which is in effect on the current floor.",
@@ -4517,7 +4517,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Rune of Ehwaz",
             "effects": [
                 "Creates a trapdoor on the floor (Same effect as We Need To Go Deeper)."
@@ -4526,7 +4526,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Rune of Hagalaz",
             "effects": [
                 "When used, this rune will destroy all breakable objects in the current room, such as poop, rocks and skulls."
@@ -4535,7 +4535,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Rune of Jera",
             "effects": [
                 "When used this rune will double all pickups on the floor in the room.",
@@ -4546,7 +4546,7 @@
         },
         {
             "id": "null",
-            "url": "/card.png",
+            "url": "card.png",
             "name": "Rune of Perthro",
             "effects": [
                 "Rerolls all pedestal items in the current room (One time use of the D6)."
