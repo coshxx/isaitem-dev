@@ -11,7 +11,8 @@
 angular
     .module('isaitemApp', [
         'ngRoute',
-        'ngAnimate'
+        'ngAnimate',
+        'ngOrderObjectBy'
     ])
     .config(function ($routeProvider) {
         $routeProvider
