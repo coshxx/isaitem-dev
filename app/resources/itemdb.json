@@ -951,7 +951,9 @@
             "id": "105",
             "url": "/collectibles/collectibles_105_dice.png",
             "name": "The D6",
-            "effects": [],
+            "effects": [
+			    "Upon use, any pedestal item (e.g. an item room item) will be re-rolled into another item."
+			],
             "description": "Reroll your destiny"
         },
         {
