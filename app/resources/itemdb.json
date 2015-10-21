@@ -3587,7 +3587,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_057_qmarkssoul.png",
             "name": "???'s Soul",
             "effects": [
                 "Creates a familiar which moves around the room in a similar fashion to The Peeper, shooting tears in the same direction as Isaac."
@@ -3596,7 +3596,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_003_aaabattery.png",
             "name": "AAA Battery",
             "effects": [
                 "Lowers your spacebar item charge rate by 1.",
@@ -3607,7 +3607,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_045_aceofspades.png",
             "name": "Ace of Spades",
             "effects": [
                 "Gives Isaac a higher chance to find Tarot cards after clearing a room or from chests."
@@ -3616,7 +3616,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_018_bibletract.png",
             "name": "Bible Tract",
             "effects": [
                 "Gives you a higher chance of eternal hearts.",
@@ -3626,7 +3626,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_017_blacklipstick.png",
             "name": "Black Lipstick",
             "effects": [
                 "Increases the chance for Black hearts to spawn."
@@ -3635,7 +3635,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_049_bloodypenny.png",
             "name": "Bloody Penny",
             "effects": [
                 "Everytime you pick up a penny, you have a chance to spawn a red heart on the floor."
@@ -3644,7 +3644,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_006_brokenmagnet.png",
             "name": "Broken Magnet",
             "effects": [
                 "Has a partial Magneto effect and will attract coins, pulling them into Isaac from a distance.",
@@ -3654,7 +3654,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_028_brokenankh.png",
             "name": "Broken Ankh",
             "effects": [
                 "Has a chance (roughly 20%) to respawn with 3 Soul hearts as Blue Baby when you die."
@@ -3663,7 +3663,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_004_brokenremote.png",
             "name": "Broken Remote",
             "effects": [
                 "Does the teleport effect every time you use your current spacebar item.",
@@ -3673,7 +3673,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_050_burntpenny.png",
             "name": "Burnt Penny",
             "effects": [
                 "Everytime you pick up a coin, you have a chance to spawn a bomb on the floor."
@@ -3682,7 +3682,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_024_buttpenny.png",
             "name": "Butt Penny",
             "effects": [
                 "Everytime you pick up a coin, you fart."
@@ -3691,7 +3691,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_059_cainseye.png",
             "name": "Cain's Eye",
             "effects": [
                 "Gives a 25% chance to reveal map icons at the start of a new floor (The same effect as the Compass)."
@@ -3700,7 +3700,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_014_callus.png",
             "name": "Callus",
             "effects": [
                 "Isaac no longer takes damage from walking over spikes and blood creep while this trinket is held."
@@ -3709,7 +3709,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_039_cancer.png",
             "name": "Cancer",
             "effects": [
                 "-2 Tear Delay (Tears Up).",
@@ -3720,7 +3720,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_008_cartridge.png",
             "name": "Cartridge",
             "effects": [
                 "When Isaac takes damage, there is a chance he will gain the Gamekid effect, turning him invincible and dealing contact damage to any enemies he touches.",
@@ -3730,7 +3730,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_034_childsheart.png",
             "name": "Child's Heart",
             "effects": [
                 "Gives Isaac a higher chance to find hearts from drops after clearing a room and from chests."
@@ -3739,7 +3739,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_052_counterfeitpenny.png",
             "name": "Counterfeit Penny",
             "effects": [
                 "When picking up a coin, you have a chance to automatically gain one more coin."
@@ -3748,7 +3748,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_043_cursedskull.png",
             "name": "Cursed Skull",
             "effects": [
                 "When you take damage while on 1/2 a heart, you are teleported back to the previous room."
@@ -3757,7 +3757,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_035_curvedhorn.png",
             "name": "Curved Horn",
             "effects": [
                 "+2 Damage Up"
@@ -3766,7 +3766,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_022_daemonstail.png",
             "name": "Daemon's Tail",
             "effects": [
                 "When Daemon's Tail is held, most future Heart drop will be rerolled into something else, with a certain chance to be rerolled into a Black Heart.",
