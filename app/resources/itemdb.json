@@ -3778,7 +3778,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_060_evesbirdfoot.png",
             "name": "Eve's Bird Foot",
             "effects": [
                 "When you kill an enemy, you have a chance to spawn a transparent Dead Bird familiar.",
@@ -3788,7 +3788,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_029_fishhead.png",
             "name": "Fish Head",
             "effects": [
                 "Everytime Isaac takes damage, one blue fly will spawn."
@@ -3797,7 +3797,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_051_flatpenny.png",
             "name": "Flat Penny",
             "effects": [
                 "Everytime you pick up a coin, you have a chance to spawn a key."
@@ -3806,7 +3806,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_012_flatworm.png",
             "name": "Flat Worm",
             "effects": [
                 "Tears become flat and disc shaped giving them a larger hitbox.",
@@ -3816,7 +3816,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_037_goathoof.png",
             "name": "Goat Hoof",
             "effects": [
                 "+0.15 Speed Up."
@@ -3825,7 +3825,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_026_hookworm.png",
             "name": "Hook Worm",
             "effects": [
                 "Tears now move forwards at right angles, shifting left and right across the room.",
@@ -3835,7 +3835,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_046_isaacsfork.png",
             "name": "Isaac's Fork",
             "effects": [
                 "After clearing a room, you have a chance to heal for half a red heart."
@@ -3844,7 +3844,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_054_isaacshead.png",
             "name": "Isaac's Head",
             "effects": [
                 "While held, this trinket gives Isaac a familiar that shoots normal tears that deal 3.5 damage."
@@ -3853,7 +3853,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_056_judastongue.png",
             "name": "Judas' Tongue",
             "effects": [
                 "Items which cost 2 heart containers in a deal with the devil are reduced to only cost 1 heart."
@@ -3862,7 +3862,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_061_thelefthand.png",
             "name": "The Left Hand",
             "effects": [
                 "Replaces chest spawns with red chests."
@@ -3871,7 +3871,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_032_libertycap.png",
             "name": "Liberty Cap",
             "effects": [
                 "While held, this trinket gives a random mushroom effect each room",
@@ -3881,7 +3881,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_015_luckyrock.png",
             "name": "Lucky Rock",
             "effects": [
                 "Rocks now drop money when broken."
@@ -3890,7 +3890,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_042_luckytoe.png",
             "name": "Lucky Toe",
             "effects": [
                 "+1 Luck Up while held."
@@ -3899,7 +3899,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_055_maggysfaith.png",
             "name": "Maggy's Faith",
             "effects": [
                 "At the start of a new floor, you get an eternal heart."
@@ -3908,7 +3908,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_041_matchstick.png",
             "name": "Match Stick",
             "effects": [
                 "Gives Isaac a higher chance to find bombs."
@@ -3917,7 +3917,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_048_amissingpage.png",
             "name": "A Missing Page",
             "effects": [
                 "When taking damage, Isaac has a chance to deal damage to the entire room in a Necronomicon style effect.",
@@ -3927,7 +3927,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_023_missingposter.png",
             "name": "Missing Poster",
             "effects": [
                 "Dying in a sacrifice room while holding this trinket will reveal a puzzle piece on the death screen. Finding all the puzzle pieces will help you to reveal the final secret, unlocking the hidden character 'The Lost'."
@@ -3936,7 +3936,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_038_momspearl.png",
             "name": "Mom's Pearl",
             "effects": [
                 "Higher chance to find Soul Hearts."
@@ -3945,7 +3945,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_016_momstoenail.png",
             "name": "Mom's Toenail",
             "effects": [
                 "Mom's Leg will now appear every 60 seconds and stomp down randomly in the room dealing 300 damage to enemies, similar to how Daddy Longlegs works but less frequent.",
@@ -3955,7 +3955,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_020_monkeypaw.png",
             "name": "Monkey's Paw",
             "effects": [
                 "When you reach half a heart of life remaining, a black heart will spawn.",
@@ -3965,7 +3965,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_025_mysteriouscandy.png",
             "name": "Mysterious Candy",
             "effects": [
                 "Causes Isaac to create poops randomly."
@@ -3974,7 +3974,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_021_mysteriouspaper.png",
             "name": "Mysterious Paper",
             "effects": [
                 "Imitates the behaviours of some of the other 'paper' items/trinkets.",
@@ -3987,7 +3987,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_019_paperclip.png",
             "name": "Paper Clip",
             "effects": [
                 "Allows you to unlock golden chests without needing a key.",
@@ -3997,7 +3997,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_002_petrifiedpoop.png",
             "name": "Petrified Poop",
             "effects": [
                 "While held, Isaac has a significantly higher chance to find drops when breaking poops."
@@ -4006,7 +4006,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_030_pinkyeye.png",
             "name": "Pinky Eye",
             "effects": [
                 "Isaac's tears have a chance to poison enemies.",
@@ -4017,7 +4017,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_009_pulseworm.png",
             "name": "Pulse Worm",
             "effects": [
                 "Tears shrink and grow in size as they go across the room.",
@@ -4027,7 +4027,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_005_purpleheart.png",
             "name": "Purple Heart",
             "effects": [
                 "Higher chance for champion enemies while held."
@@ -4036,7 +4036,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_031_pushpin.png",
             "name": "Push Pin",
             "effects": [
                 "Isaac now has a chance to make a spectral and piercing tear.",
@@ -4046,7 +4046,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_040_redpatch.png",
             "name": "Red Patch",
             "effects": [
                 "You have a chance when taking damage to gain +1.8 Damage Up for the rest of the room."
@@ -4055,7 +4055,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_011_ringworm.png",
             "name": "Ring Worm",
             "effects": [
                 "While held, tears move in a spiral pattern across the screen at high speed.",
@@ -4065,7 +4065,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_007_rosarybead.png",
             "name": "Rosary Bead",
             "effects": [
                 "Increases your chances to find an Angel Room instead of a Devil Room.",
@@ -4075,7 +4075,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_036_rustedkey.png",
             "name": "Rusted Key",
             "effects": [
                 "Gives Isaac a higher chance to find keys and chests."
@@ -4084,7 +4084,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_044_safetycap.png",
             "name": "Safety Cap",
             "effects": [
                 "Gives Isaac a higher chance to find pills."
@@ -4093,7 +4093,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_058_samsonslock.png",
             "name": "Samson's Lock",
             "effects": [
                 "When you kill an enemy, you have a chance to get +0.5 damage up for the current room."
@@ -4102,7 +4102,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_013_storecredit.png",
             "name": "Store Credit",
             "effects": [
                 "While this trinket is held, all items in the Shop cost 0 coins.",
@@ -4112,7 +4112,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_001_swallowedpenny.png",
             "name": "Swallowed Penny",
             "effects": [
                 "Each time you get hit, you drop a coin or two."
@@ -4121,7 +4121,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_053_tick.png",
             "name": "Tick",
             "effects": [
                 "When you enter a boss room, immediately remove 15% health from the boss and restore 1 red heart.",
@@ -4131,7 +4131,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_033_umbilicalcord.png",
             "name": "Umbilical Cord",
             "effects": [
                 "If you take damage which leaves you at 1/2 a heart, you gain a Little Steve familiar that follows you and shoots homing tears."
@@ -4140,7 +4140,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_027_whipworm.png",
             "name": "Whip Worm",
             "effects": [
                 "+0.5 Shot Speed Up.",
@@ -4151,7 +4151,7 @@
         },
         {
             "id": "null",
-            "url": "null",
+            "url": "/trinkets/trinket_010_wiggleworm.png",
             "name": "Wiggle Worm",
             "effects": [
                 "Tears now move in a wave fashion across the room."
