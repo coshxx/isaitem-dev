@@ -15,7 +15,36 @@ body {
 .footer {
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 15px;
+    padding-top: 5px;
+}
+
+.navbar {
+    border-color: #a00;
+    border-width: 3px;
+    background-color: #000;
+    border-radius: 25px;
+}
+
+.nav.navbar-nav li a {
+    color: #a00;
+}
+
+.navbar-header {
+    color: #a00;
+    text-align: left;
+}
+
+.navbar-header a:visited {
+    color: #a00;
+}
+
+.header img {
+    width: 50px;
+    height: 50px;
+    border: 3px solid;
+    border-radius: 25px;
+    float: left;
+    margin-right: 25px;
 }
 
 /* Custom page header */
@@ -31,15 +60,16 @@ body {
     padding-bottom: 19px;
 }
 
+
 /* Custom page footer */
 .footer {
     padding-top: 19px;
-    color: #666;
+    color: #f00;
 }
 
 .mainStyle {
     text-align: center;
-    padding: 25px;
+    padding: 5px;
 }
 
 .itemStyle {
@@ -59,26 +89,6 @@ body {
 
 .container-narrow > hr {
     margin: 30px 0;
-}
-
-/* Main marketing message and sign up button */
-.jumbotron {
-    text-align: center;
-    border-bottom: 1px solid #e5e5e5;
-}
-
-.jumbotron .btn {
-    font-size: 21px;
-    padding: 14px 24px;
-}
-
-/* Supporting marketing content */
-.marketing {
-    margin: 40px 0;
-}
-
-.marketing p + h4 {
-    margin-top: 28px;
 }
 
 /* Responsive: Portrait tablets and up */
@@ -108,15 +118,15 @@ body {
 }
 
 .sample-show-hide {
-    padding:10px;
-    background:white;
+    padding: 10px;
+    background: white;
 }
 
 .sample-show-hide {
-    -webkit-transition:all linear 0.1s;
-    transition:all linear 0.1s;
+    -webkit-transition: all linear 0.1s;
+    transition: all linear 0.1s;
 }
 
 .sample-show-hide.ng-hide {
-    opacity:0;
+    opacity: 0;
 }

@@ -9,13 +9,15 @@
 <div ng-repeat="entry in isaacItems.items | filter:{ name: itemFilter } | limitTo:10 | orderObjectBy: 'name' : descending">
     <div class="sample-show-hide" ng-show="itemFilter.length >=3">
         <div class="itemStyle" ng-controller="MainCtrl">
-            ID: {{entry.id}}
-            <br>
             <img ng-src="./resources/{{entry.url}}"><br>
             Name: {{entry.name}}
             <br>
             Description: {{entry.description}}
-            <br><br>
+            <br>
+            <div ng-if="entry.id != 'null'">
+                ID: {{ entry.id }}
+            </div>
+            <br>
 
             <div ng-repeat="effect in entry.effects">
                 {{effect}}
