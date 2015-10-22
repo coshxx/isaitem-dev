@@ -23,6 +23,8 @@ body {
     border-width: 3px;
     background-color: #000;
     border-radius: 25px;
+    width: 50%;
+    display: inline-block;
 }
 
 .nav.navbar-nav li a {
@@ -76,15 +78,21 @@ body {
     text-align: center;
     border-radius: 20px;
     background-color: #363636;
-    border: inset 10px;
+    border: outset 10px;
     border-color: #990000;
-    padding: 25px;
+    padding: 5px;
     color: #CCC;
-    margin: 15px;
+    width: 75%;
+    display: inherit;
+    margin: auto;
 }
 
 .itemStyle img {
     width: 50px;
+}
+
+.itemGrid {
+    float: left;
 }
 
 .container-narrow > hr {
@@ -108,7 +116,7 @@ body {
 
     /* Space out the masthead */
     .header {
-        margin-bottom: 30px;
+        margin-bottom: 5px;
     }
 
     /* Remove the bottom border on the jumbotron for visual effect */

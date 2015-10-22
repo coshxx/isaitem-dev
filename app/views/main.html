@@ -8,7 +8,7 @@
 
 <div ng-repeat="entry in isaacItems.items | filter:{ name: itemFilter } | limitTo:10 | orderObjectBy: 'name' : descending">
     <div class="sample-show-hide" ng-show="itemFilter.length >=3">
-        <div class="itemStyle" ng-controller="MainCtrl">
+        <div class="itemStyle">
             <img ng-src="./resources/{{entry.url}}"><br>
             Name: {{entry.name}}
             <br>

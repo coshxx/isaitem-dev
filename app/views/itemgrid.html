@@ -1,0 +1,7 @@
+<div ng-controller="ItemgridCtrl">
+    <div ng-repeat="entry in isaacItems.items">
+        <div class="itemGrid">
+            <img ng-src="./resources/{{entry.url}}" data-toggle="tooltip" title="{{entry.name}}">
+        </div>
+    </div>
+</div>

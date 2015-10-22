@@ -29,6 +29,11 @@ angular
             .when('/contact', {
                 templateUrl: 'views/contact.html',
             })
+            .when('/itemgrid', {
+              templateUrl: 'views/itemgrid.html',
+              controller: 'ItemgridCtrl',
+              controllerAs: 'itemgrid'
+            })
             .otherwise({
                 redirectTo: '/'
             });
